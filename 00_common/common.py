@@ -97,9 +97,10 @@ def check_ExcelFiles_in_Abgaben(func):
         for subdir in os.listdir():
             if subdir != ".DS_Store":
                 os.chdir(subdir)
-                filename = os.listdir()[0]
-                points = check_excel_file(filename, func)
-                l_points.append(points)
+                for filename in os.listdir():
+                    if filename != ".DS_Store":
+                        points = check_excel_file(filename, func)
+                        l_points.append(points)
                 os.chdir("..")
         os.chdir("..")
     else:
