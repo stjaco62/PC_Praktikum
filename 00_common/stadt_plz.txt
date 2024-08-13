@@ -1,0 +1,1082 @@
+Aach    78267
+Aachen	52062
+Aalen	73430
+Abenberg	91183
+Abensberg	93326
+Achern	77855
+Achim	28832
+Adelsheim	74740
+Adenau	53518
+Adorf	08626
+Ahaus	48683
+Ahlen	59227
+Ahrensburg	22926
+Aichach	86551
+Aichtal	72631
+Aken	06385
+Albstadt	72458
+Alfeld	31061
+Allendorf	35469
+Allstedt	06542
+Alpirsbach	72275
+Alsdorf	52477
+Alsfeld	36304
+Alsleben	06425
+Altdorf b.Nürnberg	90518
+Altena	58762
+Altenau	38707
+Altenberg	01773
+Altenburg	04600
+Altenkirchen	57610
+Altensteig	72213
+Altentreptow	17087
+Altlandsberg	15345
+Altötting	84503
+Alzenau	63755
+Alzey	55232
+Amberg	92224
+Amöneburg	35287
+Amorbach	63916
+Andernach	56626
+Angermünde	16278
+Anklam	17389
+Annaberg-Buchholz	09456
+Annaburg	06925
+Annweiler am Trifels	76855
+Ansbach	91522
+Apolda	99510
+Arendsee	39619
+Arneburg	39596
+Arnis	24399
+Arnsberg	59759
+Arnstadt	99310
+Arnstein	97450
+Artern/Unstrut	06556
+Arzberg	95659
+Aschaffenburg	63739
+Aschersleben	06449
+Asperg	71679
+Aßlar	35614
+Attendorn	57439
+Aub	97239
+Aue	08280
+Auerbach	08209
+Auerbach	91275
+Augsburg	86150
+Augustusburg	09573
+Aulendorf	88326
+Auma	07955
+Aurich	26603
+Babenhausen	64832
+Bacharach	55422
+Backnang	71522
+Bad Aibling	83043
+Bad Arolsen	34454
+Bad Bentheim	48455
+Bad Bergzabern	76887
+Bad Berka	99438
+Bad Berleburg	57319
+Bad Berneck	95460
+Bad Bevensen	29549
+Bad Bibra	06647
+Bad Blankenburg	07422
+Bad Bramstedt	24576
+Bad Breisig	53498
+Bad Brückenau	97769
+Bad Buchau	88422
+Bad Camberg	65520
+Bad Colberg-Heldburg	98663
+Bad Doberan	18209
+Bad Driburg	33014
+Bad Düben	04849
+Bad Dürkheim	67098
+Bad Dürrenberg	06231
+Bad Dürrheim	78073
+Bad Elster	08645
+Bad Ems	56130
+Bad Fallingbostel	29683
+Bad Frankenhausen/Kyffhäuser	06567
+Bad Freienwalde	16259
+Bad Friedrichshall	74177
+Bad Gandersheim	37581
+Bad Gottleuba-Berggießhübel	01816
+Bad Griesbach i.Rottal	94086
+Bad Grund	37539
+Bad Harzburg	38667
+Bad Herrenalb	76332
+Bad Hersfeld	36251
+Bad Homburg	61348
+Bad Honnef	53604
+Bad Hönningen	53557
+Bad Iburg	49186
+Bad Karlshafen	34385
+Bad Kissingen	97688
+Bad König	64732
+Bad Königshofen i.Grabfeld	97631
+Bad Kösen	06628
+Bad Köstritz	07586
+Bad Kötzting	93444
+Bad Kreuznach	55545
+Bad Krozingen	79189
+Bad Laasphe	57334
+Bad Langensalza	99947
+Bad Lauchstädt	06246
+Bad Lausick	04651
+Bad Lauterberg im Harz	37431
+Bad Liebenstein	36448
+Bad Liebenwerda	04924
+Bad Liebenzell	75378
+Bad Lippspringe	33175
+Bad Lobenstein	07356
+Bad Marienberg	56470
+Bad Mergentheim	97980
+Bad Münder am Deister	31848
+Bad Münster am Stein-Ebernburg	55583
+Bad Münstereifel	53902
+Bad Muskau	02953
+Bad Nauheim	61231
+Bad Nenndorf	31542
+Bad Neuenahr-Ahrweiler	53474
+Bad Neustadt a.d.Saale	97616
+Bad Oeynhausen	32545
+Bad Oldesloe	23843
+Bad Orb	63619
+Bad Pyrmont	31812
+Bad Rappenau	74906
+Bad Reichenhall	83435
+Bad Rodach	96476
+Bad Sachsa	37441
+Bad Säckingen	79713
+Bad Salzdetfurth	31162
+Bad Salzuflen	32105
+Bad Salzungen	36433
+Bad Saulgau	88348
+Bad Schandau	01814
+Bad Schmiedeberg	06905
+Bad Schussenried	88427
+Bad Schwalbach	65307
+Bad Schwartau	23611
+Bad Segeberg	23795
+Bad Sobernheim	55566
+Bad Soden am Taunus	65812
+Bad Soden-Salmünster	63628
+Bad Sooden-Allendorf	37242
+Bad Staffelstein	96231
+Bad Sulza	99518
+Bad Sülze	18334
+Bad Teinach-Zavelstein	75385
+Bad Tennstedt	99955
+Bad Tölz	83646
+Bad Urach	72574
+Bad Vilbel	61118
+Bad Waldsee	88339
+Bad Wildbad	75323
+Bad Wildungen	34537
+Bad Wilsnack	19336
+Bad Wimpfen	74206
+Bad Windsheim	91438
+Bad Wörishofen	86825
+Bad Wünnenberg	33181
+Bad Wurzach	88410
+Baden-Baden	76530
+Baesweiler	52499
+Baiersdorf	91083
+Balingen	72336
+Ballenstedt	06493
+Balve	58802
+Bamberg	96047
+Barby	39249
+Bargteheide	22941
+Barmstedt	25355
+Bärnau	95671
+Barntrup	32683
+Barsinghausen	30890
+Barth	18356
+Baruth/Mark	15837
+Bassum	27211
+Battenberg	35088
+Baumholder	55774
+Baunach	96148
+Baunatal	34225
+Bautzen	02625
+Bayreuth	95444
+Bebra	36179
+Beckum	59269
+Bedburg	50181
+Beelitz	14547
+Beerfelden	64743
+Beeskow	15848
+Beilngries	92339
+Beilstein	71717
+Belgern	04874
+Belzig	14806
+Bendorf	56170
+Benneckenstein	38877
+Bensheim	64625
+Berching	92334
+Berga	07980
+Bergen	29303
+Bergen auf Rügen	18528
+Bergheim	50126
+Bergisch Gladbach	51465
+Bergkamen	59192
+Bergneustadt	51702
+Berka/Werra	99837
+Berlin	10178
+Bernau bei Berlin	16321
+Bernburg	06406
+Bernkastel-Kues	54470
+Bernsdorf	02994
+Bernstadt a. d. Eigen	02748
+Dachau	85221
+Dahlen	04774
+Dahme Mark	15936
+Dahn	66994
+Damme	49401
+Dannenberg	29451
+Dargun	17159
+Darmstadt	64283
+Dassel	37586
+Dassow	23942
+Datteln	45711
+Daun	54550
+Deggendorf	94469
+Deidesheim	67146
+Delbrück	33129
+Delitzsch	04509
+Delmenhorst	27749
+Demmin	17109
+Derenburg	38895
+Dessau-Roßlau	06844
+Detmold	32756
+Dettelbach	97337
+Dieburg	64807
+Diemelstadt	34474
+Diepholz	49356
+Dierdorf	56269
+Dietenheim	89165
+Dietfurt a.d.Altmühl	92345
+Dietzenbach	63128
+Diez	65582
+Dillenburg	35683
+Dillingen a.d.Donau	89407
+Dillingen Saar	66763
+Dingelstädt	37351
+Dingolfing	84130
+Dinkelsbühl	91550
+Dinklage	49413
+Dinslaken	46535
+Dippoldiswalde	01744
+Dissen am Teutoburger Wald	49201
+Ditzingen	71254
+Döbeln	04720
+Doberlug-Kirchhain	03253
+Döbern	03159
+Dohna	01809
+Dömitz	19303
+Dommitzsch	04880
+Donaueschingen	78166
+Donauwörth	86609
+Donzdorf	73072
+Dorfen	84405
+Dormagen	41539
+Dornburg-Camburg	07774
+Dornhan	72175
+Dornstetten	72280
+Dorsten	46284
+Dortmund	44135
+Dransfeld	37127
+Drebkau	03116
+Dreieich	63303
+Drensteinfurt	48317
+Dresden	01067
+Drolshagen	57489
+Duderstadt	37115
+Duisburg	47051
+Dülmen	48249
+Düren	52349
+Düsseldorf	40213
+Ebeleben	99713
+Eberbach	69412
+Ebermannstadt	91320
+Ebern	96106
+Ebersbach	02730
+Ebersbach an der Fils	73061
+Ebersberg	85560
+Eberswalde	16225
+Eckartsberga	06648
+Eckernförde	24340
+Edenkoben	67480
+Egeln	39435
+Eggenfelden	84307
+Eggesin	17367
+Ehingen	89584
+Ehrenfriedersdorf	09427
+Eibelstadt	97246
+Eibenstock	08309
+Eichstätt	85072
+Eilenburg	04838
+Einbeck	37574
+Eisenach	99817
+Eisenberg	07607
+Eisenberg	67304
+Eisenhüttenstadt	15890
+Eisfeld	98673
+Eisleben	06295
+Eislingen/ Fils	73054
+Elbingerode	38875
+Ellingen	91792
+Ellrich	99755
+Ellwangen	73479
+Elmshorn	25335
+Elsfleth	26931
+Elsterberg	07985
+Elsterwerda	04910
+Elstra	01920
+Elterlein	09481
+Eltmann	97483
+Eltville am Rhein	65343
+Elzach	79215
+Elze	31008
+Emden	26721
+Emmendingen	79312
+Emmerich am Rhein	46446
+Emsdetten	48282
+Endingen am Kaiserstuhl	79346
+Engen	78234
+Enger	32130
+Ennepetal	58256
+Ennigerloh	59320
+Eppelheim	69214
+Eppingen	75031
+Eppstein	65817
+Erbach	64711
+Erbach	89155
+Erbendorf	92681
+Erding	85435
+Erftstadt	50374
+Erfurt	99084
+Erkelenz	41812
+Falkenberg	04895
+Falkensee	14612
+Falkenstein	08223
+Falkenstein/Harz	06463
+Fehmarn	23769
+Fellbach	70734
+Felsberg	34587
+Feuchtwangen	91555
+Filderstadt	70794
+Finsterwalde	03238
+Fladungen	97650
+Flensburg	24937
+Flöha	09557
+Flörsheim am Main	65439
+Florstadt	61197
+Forchheim	91301
+Forchtenberg	74670
+Forst (Lausitz)	03149
+Frankenau	35110
+Frankenberg	35066
+Frankenberg	09669
+Frankenthal	67227
+Frankfurt	15230
+Frankfurt am Main	60311
+Franzburg	18461
+Frauenstein	09623
+Frechen	50226
+Freiberg	09599
+Freiberg am Neckar	71691
+Freiburg im Breisgau	79098
+Freilassing	83395
+Freinsheim	67251
+Freising	85354
+Freital	01705
+Freren	49832
+Freudenberg	57258
+Freudenberg	97896
+Freudenstadt	72250
+Freyburg	06632
+Freystadt	92342
+Freyung	94078
+Fridingen an der Donau	78567
+Friedberg	86316
+Friedberg	61169
+Friedland	17098
+Friedland	15848
+Friedrichroda	99894
+Friedrichsdorf	61381
+Friedrichshafen	88045
+Friedrichstadt	25840
+Friedrichsthal	66299
+Friesack	14662
+Friesoythe	26169
+Fritzlar	34560
+Frohburg	04654
+Fröndenberg/Ruhr	58730
+Fulda	36037
+Fürstenau	49584
+Fürstenberg	16798
+Fürstenfeldbruck	82256
+Fürstenwalde/Spree	15517
+Fürth	90762
+Furth im Wald	93437
+Furtwangen im Schwarzwald	78120
+Füssen	87629
+Haan	42781
+Hachenburg	57627
+Hadamar	65589
+Hadmersleben	39398
+Hagen	58095
+Hagenbach	76767
+Hagenow	19230
+Haiger	35708
+Haigerloch	72401
+Hainichen	09661
+Haiterbach	72221
+Halberstadt	38820
+Haldensleben	39340
+Halle	33790
+Hallenberg	59969
+Halle-Saale	06108
+Hallstadt	96103
+Haltern am See	45721
+Halver	58553
+Hamburg	20038
+Hameln	31785
+Hamm	59065
+Hammelburg	97762
+Hamminkeln	46499
+Hanau	63450
+Hann. Münden	34346
+Hannover	30159
+Harburg	86655
+Hardegsen	37181
+Haren	49733
+Harsewinkel	33428
+Hartenstein	08118
+Hartha	04746
+Harzgerode	06493
+Haselünne	49740
+Haslach im Kinzigtal	77716
+Hasselfelde	38899
+Haßfurt	97437
+Hattersheim am Main	65795
+Hattingen	45525
+Hatzfeld	35116
+Hausach	77756
+Hauzenberg	94051
+Havelberg	39539
+Havelsee	14798
+Hayingen	72534
+Hechingen	72379
+Hecklingen	39444
+Heide	25746
+Heideck	91180
+Heidelberg	69117
+Heidenau	01809
+Heidenheim an der Brenz	89522
+Heilbad Heiligenstadt	37308
+Heilbronn	74072
+Heiligenhafen	23774
+Heiligenhaus	42579
+Heilsbronn	91560
+Heimbach	52396
+Heimsheim	71296
+Heinsberg	52525
+Heitersheim	79423
+Heldrungen	06577
+Helmbrechts	95233
+Helmstedt	38350
+Hemau	93155
+Hemer	58675
+Hemmingen	30966
+Hemmoor	21745
+Hemsbach	69502
+Hennef	53773
+Hennigsdorf	16761
+Heppenheim	64646
+Herbolzheim	79336
+Herborn	35745
+Herbrechtingen	89542
+Herbstein	36358
+Herdecke	58313
+Herdorf	57562
+Herford	32052
+Heringen	36266
+Heringen/Helme	99765
+Hermeskeil	54411
+Hermsdorf	07629
+Herne	44623
+Herrenberg	71083
+Herrieden	91567
+Herrnhut	02747
+Hersbruck	91217
+Herten	45699
+Herzberg	04916
+Herzberg am Harz	37412
+Herzogenaurach	91074
+Herzogenrath	52134
+Hessisch Lichtenau	37235
+Hessisch Oldendorf	31840
+Hettingen	72513
+Hettstedt	06333
+Heubach	73540
+Heusenstamm	63150
+Hilchenbach	57271
+Hildburghausen	98646
+Hilden	40721
+Hildesheim	31134
+Hillesheim	54576
+Hilpoltstein	91161
+Hirschau	92242
+Hirschberg	07927
+Hirschhorn	69434
+Hitzacker	29456
+Hochheim am Main	65239
+Höchstadt a.d.Aisch	91315
+Höchstädt a.d.Donau	89420
+Hockenheim	68766
+Hof	95028
+Hofgeismar	34369
+Hofheim	97461
+Hofheim am Taunus	65719
+Hohen Neuendorf	16540
+Hohenberg	95691
+Hohenleuben	07958
+Hohenmölsen	06679
+Hohenstein-Ernstthal	09337
+Hohnstein	01848
+Höhr-Grenzhausen	56203
+Hollfeld	96142
+Holzgerlingen	71088
+Holzminden	37603
+Homberg	34576
+Homberg	35315
+Homburg	66424
+Horb am Neckar	72160
+Hornbach	66500
+Horn-Bad Meinberg	32805
+Hornberg	78132
+Hornburg	38315
+Hörstel	48477
+Horstmar	48612
+Höxter	37671
+Hoya	27318
+Hoyerswerda	02977
+Hückelhoven	41836
+Hückeswagen	42499
+Hüfingen	78183
+Hünfeld	36088
+Hungen	35410
+Hürth	50354
+Husum	25813
+Laage	18299
+Laatzen	30880
+Ladenburg	68526
+Lage	32791
+Lahnstein	56112
+Lahr/Schwarzwald	77933
+Laichingen	89150
+Lambrecht	67466
+Lampertheim	68623
+Landau a.d.Isar	94405
+Landau in der Pfalz	76829
+Landsberg	06188
+Landsberg am Lech	86899
+Landshut	84028
+Landstuhl	66849
+Langelsheim	38685
+Langen	63225
+Langen	27607
+Langenau	89129
+Langenburg	74595
+Langenfeld	40764
+Langenhagen	30853
+Langenselbold	63505
+Langenzenn	90579
+Langewiesen	98704
+Lassan	17440
+Laubach	35321
+Laucha an der Unstrut	06636
+Lauchhammer	01979
+Lauchheim	73466
+Lauda-Königshofen	97922
+Lauenburg/ Elbe	21481
+Lauf a.d.Pegnitz	91207
+Laufen	83410
+Laufenburg	79725
+Lauffen am Neckar	74348
+Lauingen	89415
+Laupheim	88471
+Lauscha	98724
+Lauta	02991
+Lauter	08312
+Lauterbach	36341
+Lauterecken	67742
+Lauterstein	73111
+Lebach	66822
+Lebus	15326
+Leer	26789
+Lehesten	07349
+Lehrte	31275
+Leichlingen	42799
+Leimen	69181
+Leinefelde-Worbis	37327
+Leinfelden-Echterdingen	70771
+Leipheim	89340
+Leipzig	04109
+Leisnig	04703
+Lemgo	32657
+Lengefeld	09514
+Lengenfeld	08485
+Lengerich	49525
+Lennestadt	57368
+Lenzen	19309
+Leonberg	71229
+Leun	35638
+Leuna	06237
+Leutenberg	07338
+Leutershausen	91578
+Leutkirch	88299
+Leverkusen	51373
+Lich	35423
+Lichtenau	33165
+Lichtenau	77839
+Lichtenberg	95192
+Lichtenfels	96215
+Lichtenfels	35104
+Lichtenstein	09350
+Liebenau	34396
+Liebenwalde	16559
+Lieberose	15868
+Liebstadt	01825
+Limbach-Oberfrohna	09212
+Limburg a.d. Lahn	65549
+Lindau	88131
+Lindau	39264
+Linden	35440
+Lindenberg	88161
+Lindenfels	64678
+Lindow	16835
+Lingen	49808
+Linnich	52441
+Linz am Rhein	53545
+Lippstadt	59555
+Löbau	02708
+Löbejün	06193
+Löffingen	79843
+Lohmar	53797
+Lohne	49393
+Löhne	32584
+Lohr	97816
+Loitz	17121
+Lollar	35457
+Lommatzsch	01623
+Löningen	49624
+Lorch	73547
+Lorch	65391
+Lörrach	79539
+Lorsch	64653
+Lößnitz	08294
+Löwenstein	74245
+Lübbecke	32312
+Lübben	15907
+Lübbenau	03222
+Lübeck	23539
+Lübtheen	19249
+Lübz	19386
+Lüchow	29439
+Lucka	04613
+Luckau	15926
+Luckenwalde	14943
+Lüdenscheid	58507
+Lüdinghausen	59348
+Ludwigsburg	71638
+Ludwigsfelde	14974
+Ludwigshafen am Rhein	67059
+Ludwigslust	19288
+Ludwigsstadt	96337
+Lugau	09385
+Lügde	32676
+Lüneburg	21335
+Lünen	44532
+Lunzenau	09328
+Lütjenburg	24321
+Lützen	06686
+Lychen	17279
+Magdala	99441
+Magdeburg	39104
+Mahlberg	77972
+Mainbernheim	97350
+Mainburg	84048
+Maintal	63477
+Mainz	55116
+Malchin	17139
+Malchow	17213
+Manderscheid	54531
+Mannheim	68159
+Mansfeld	06343
+Marbach am Neckar	71672
+Marburg	35037
+Marienberg	09496
+Marienmünster	37696
+Markdorf	88677
+Markgröningen	71706
+Märkisch Buchholz	15748
+Markkleeberg	04416
+Markneukirchen	08258
+Markranstädt	04420
+Marktbreit	97340
+Marktheidenfeld	97828
+Marktleuthen	95168
+Marktoberdorf	87616
+Marktredwitz	95615
+Marktsteft	97342
+Marl	45768
+Marlow	18337
+Marne	25709
+Marsberg	34431
+Maulbronn	75433
+Maxhütte-Haidhof	93142
+Mayen	56727
+Mechernich	53894
+Meckenheim	53340
+Medebach	59964
+Meerane	08393
+Meerbusch	40667
+Meersburg	88709
+Meinerzhagen	58540
+Meiningen	98617
+Meisenheim	55590
+Meißen	01662
+Meldorf	25704
+Melle	49324
+Mellrichstadt	97638
+Melsungen	34212
+Memmingen	87700
+Menden	58706
+Mendig	56743
+Mengen	88512
+Meppen	49716
+Merkendorf	91732
+Merseburg	06217
+Merzig	66663
+Meschede	59872
+Meßkirch	88605
+Meßstetten	72469
+Mettmann	40822
+Metzingen	72555
+Meuselwitz	04610
+Meyenburg	16945
+Michelstadt	64720
+Miesbach	83714
+Miltenberg	63897
+Mindelheim	87719
+Minden	32423
+Mirow	17252
+Mittenwalde	15749
+Mitterteich	95666
+Mittweida	09648
+Möckern	39291
+Möckmühl	74219
+Moers	47441
+Mölln	23879
+Mönchengladbach	41061
+Monheim	86653
+Monheim am Rhein	40789
+Monschau	52156
+Montabaur	56410
+Moosburg a.d.Isar	85368
+Mörfelden-Walldorf	64546
+Moringen	37186
+Mosbach	74821
+Mössingen	72116
+Mücheln	06249
+Mügeln	04769
+Mühlacker	75417
+Mühlberg/Elbe	04931
+Mühldorf a.Inn	84453
+Mühlhausen	99974
+Mühlheim am Main	63165
+Mühlheim an der Donau	78570
+Mühltroff	07919
+Mülheim an der Ruhr	45468
+Mülheim-Kärlich	56218
+Müllheim	79379
+Müllrose	15299
+Münchberg	95213
+Müncheberg	15374
+München	80331
+Münchenbernsdorf	07589
+Munderkingen	89597
+Münnerstadt	97702
+Münsingen	72525
+Munster	29633
+Münster	48143
+Münstermaifeld	56294
+Münzenberg	35516
+Murrhardt	71540
+Mutzschen	04688
+Mylau	08499
+Saalburg-Ebersdorf	07929
+Saalfeld/Saale	07318
+Saarbrücken	66111
+Saarburg	54439
+Saarlouis	66740
+Sachsenhagen	31553
+Sachsenheim	74343
+Salzgitter	38226
+Salzkotten	33154
+Salzwedel	29410
+Sandau	39524
+Sandersdorf-Brehna	06792
+Sandersleben	06456
+Sangerhausen	06526
+Sankt Andreasberg	37444
+Sankt Augustin	53757
+Sankt Goar	56329
+Sankt Goarshausen	56346
+Sarstedt	31157
+Sassenberg	48336
+Sassnitz	18546
+Sayda	09619
+Schalkau	96528
+Schauenstein	95197
+Scheer	72516
+Scheibenberg	09481
+Scheinfeld	91443
+Schelklingen	89601
+Schenefeld	22869
+Scheßlitz	96110
+Schieder-Schwalenberg	32816
+Schifferstadt	67105
+Schildau	04889
+Schillingsfürst	91583
+Schiltach	77761
+Schirgiswalde	02681
+Schkeuditz	04435
+Schkölen	07619
+Schleiden	53937
+Schleiz	07907
+Schleswig	24837
+Schlettau	09487
+Schleusingen	98553
+Schlieben	04936
+Schlitz	36110
+Schloß Holte-Stukenbrock	33758
+Schlotheim	99994
+Schlüchtern	36381
+Schlüsselfeld	96132
+Schmalkalden	98574
+Schmallenberg	57392
+Schmölln	04626
+Schnackenburg	29493
+Schnaittenbach	92253
+Schneeberg	08289
+Schneverdingen	29640
+Schömberg	72355
+Schönau	69250
+Schönau im Schwarzwald	79677
+Schönberg	23923
+Schönebeck	39218
+Schöneck	08261
+Schönewalde	04916
+Schongau	86956
+Schöningen	38364
+Schönsee	92539
+Schönwald	95173
+Schopfheim	79650
+Schöppenstedt	38170
+Schorndorf	73614
+Schortens	26419
+Schotten	63679
+Schramberg	78713
+Schraplau	06279
+Schriesheim	69198
+Schrobenhausen	86529
+Schrozberg	74575
+Schüttorf	48465
+Schwaan	18258
+Schwabach	91126
+Schwäbisch Gmünd	73525
+Schwäbisch Hall	74523
+Schwabmünchen	86830
+Schwaigern	74193
+Schwalbach am Taunus	65824
+Schwalmstadt	34613
+Schwandorf	92421
+Schwanebeck	39397
+Schwarzenbach	95131
+Schwarzenbach a.d.Saale	95126
+Schwarzenbek	21493
+Schwarzenberg	08340
+Schwarzenborn	34639
+Schwarzheide	01987
+Schwedt/Oder	16303
+Schweich	54338
+Schweinfurt	97421
+Schwelm	58332
+Schwentinental	24223
+Schwerin	19053
+Schwerte	58239
+Schwetzingen	68723
+Sebnitz	01855
+Seehausen	39615
+Seehausen	39365
+Seeland	06469
+Seelow	15306
+Seelze	30926
+Seesen	38723
+Sehnde	31319
+Seifhennersdorf	02782
+Selb	95100
+Selbitz	95152
+Seligenstadt	63500
+Selm	59379
+Selters	56242
+Senden	89250
+Sendenhorst	48324
+Senftenberg	01968
+Seßlach	96145
+Siegburg	53721
+Siegen	57072
+Sigmaringen	72488
+Simbach a.Inn	84359
+Simmern	55469
+Sindelfingen	71063
+Singen	78224
+Sinsheim	74889
+Sinzig	53489
+Soest	59494
+Solingen	42651
+Solms	35606
+Soltau	29614
+Sömmerda	99610
+Sondershausen	99706
+Sonneberg	96515
+Sonnewalde	03249
+Sonthofen	87527
+Sontra	36205
+Spaichingen	78549
+Spalt	91174
+Spangenberg	34286
+Spenge	32139
+Speyer	67346
+Spremberg	03130
+Springe	31832
+Sprockhövel	45549
+St. Blasien	79837
+St. Georgen im Schwarzwald	78112
+St. Ingbert	66386
+St. Wendel	66606
+Stade	21682
+Stadt Wehlen	01829
+Stadtallendorf	35260
+Stadtbergen	86391
+Stadthagen	31655
+Stadtilm	99326
+Stadtlengsfeld	36457
+Stadtlohn	48703
+Stadtoldendorf	37627
+Stadtprozelten	97909
+Stadtroda	07646
+Stadtsteinach	95346
+Starnberg	82319
+Staßfurt	39418
+Staufen im Breisgau	79219
+Staufenberg	35460
+Stavenhagen, Reuterstadt	17153
+Stein	90547
+Steinach	96523
+Steinau an der Straße	36396
+Steinbach	61449
+Steinbach-Hallenberg	98587
+Steinfurt	48565
+Steinheim	32839
+Steinheim an der Murr	71711
+Stendal	39576
+Sternberg	19406
+Stockach	78333
+Stolberg	52222
+Stolberg	06547
+Stollberg	09366
+Stolpen	01833
+Storkow	15859
+Stößen	06667
+Straelen	47638
+Stralsund	18439
+Strasburg	17335
+Straubing	94315
+Strausberg	15344
+Strehla	01616
+Stromberg	55442
+Stühlingen	79780
+Stutensee	76297
+Stuttgart	70173
+Suhl	98527
+Sulingen	27232
+Sulz am Neckar	72172
+Sulzbach/ Saar	66280
+Sulzbach-Rosenberg	92237
+Sulzburg	79295
+Sundern	59846
+Süßen	73079
+Syke	28857
+Tambach-Dietharz	99897
+Tangerhütte	39517
+Tangermünde	39590
+Tann	36142
+Tanna	07922
+Tauberbischofsheim	97941
+Taucha	04425
+Taunusstein	65232
+Tecklenburg	49545
+Tegernsee	83684
+Telgte	48291
+Teltow	14513
+Templin	17268
+Tengen	78250
+Tessin	18195
+Teterow	17166
+Tettnang	88069
+Teublitz	93158
+Teuchern	06682
+Teupitz	15755
+Teuschnitz	96358
+Thale	06502
+Thalheim	09380
+Thannhausen	86470
+Tharandt	01737
+Themar	98660
+Thum	09419
+Tirschenreuth	95643
+Titisee-Neustadt	79822
+Tittmoning	84529
+Todtnau	79674
+Töging a.Inn	84513
+Tönisvorst	47918
+Tönning	25832
+Torgau	04860
+Torgelow	17358
+Tornesch	25437
+Traben-Trarbach	56841
+Traunreut	83301
+Traunstein	83278
+Trebbin	14959
+Trebsen/Mulde	04687
+Treffurt	99830
+Trendelburg	34388
+Treuchtlingen	91757
+Treuen	08233
+Treuenbrietzen	14929
+Triberg im Schwarzwald	78098
+Tribsees	18465
+Trier	54290
+Triptis	07819
+Trochtelfingen	72818
+Troisdorf	53840
+Trossingen	78647
+Trostberg	83308
+Tübingen	72070
+Tuttlingen	78532
+Twistringen	27239
