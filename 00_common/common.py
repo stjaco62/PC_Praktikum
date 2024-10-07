@@ -87,8 +87,8 @@ def check_excel_file(filename, func):
             points = func(matrnr, wb, wb_val)
             return points
         except:
-            print("Problems with ", filename, "! Cannot be opened by openpyxl")
-    return [0]    
+            print("Problems with ", filename, func, "! Cannot be opened by openpyxl")
+    return [filename]    
 
 def check_ExcelFiles_in_Abgaben(func):
     l_points = []
