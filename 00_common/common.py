@@ -84,10 +84,16 @@ def check_excel_file(filename, func):
             matrnr = int(filename[:7])
             wb = load_workbook(filename)
             wb_val = load_workbook(filename, data_only = True)
+        except:
+            print("Problems with ", filename, "! Cannot be opened by openpyxl")
+            return [filename]
+        
+        try:
             points = func(matrnr, wb, wb_val)
             return points
         except:
-            print("Problems with ", filename, func, "! Cannot be opened by openpyxl")
+            print("Problems with processing of file", filename)
+            return [filename]
     return [filename]    
 
 def check_ExcelFiles_in_Abgaben(func):
